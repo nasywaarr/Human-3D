@@ -1,6 +1,9 @@
 # Human-3D
 Human 3D model created in Blender.
 
+<img width="1600" height="972" alt="WhatsApp Image 2026-03-31 at 20 24 59 (3)" src="https://github.com/user-attachments/assets/d3834340-1f9e-4cf6-93fd-22f8ce726681" />
+
+
 ## Main Objects of the 3D Character
 1. **Head Section:**
    - **Mouth**  
