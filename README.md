@@ -1,8 +1,15 @@
 # Human-3D
 Human 3D model created in Blender.
 
-<img width="1600" height="972" alt="WhatsApp Image 2026-03-31 at 20 24 59 (3)" src="https://github.com/user-attachments/assets/d3834340-1f9e-4cf6-93fd-22f8ce726681" />
+---
 
+## 📸 Preview
+ 
+| Without Jacket | With Jacket |
+|:-:|:-:|
+| ![Without Jacket](https://github.com/user-attachments/assets/8c6db110-8010-423f-8ac2-84647ecca4e2) | ![With Jacket](https://github.com/user-attachments/assets/d3834340-1f9e-4cf6-93fd-22f8ce726681) |
+ 
+---
 
 ## Main Objects of the 3D Character
 1. **Head Section:**
@@ -42,3 +49,7 @@ Human 3D model created in Blender.
 
 - **Jacket**  
   ![Jacket](https://github.com/user-attachments/assets/8a8dc44a-ab5e-48bf-aa44-7ca9544c6ec8)
+
+---
+ 
+*Made with ❤️ in Blender*
